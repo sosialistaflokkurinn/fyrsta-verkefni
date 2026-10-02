@@ -3,8 +3,8 @@
 One goal: install **OpenCode**, an AI coding agent that runs in the terminal, and have it
 write a small Python program that you then run yourself.
 
-Written for a Mac. No prior knowledge is assumed. If something breaks, take a screenshot and ask. That is
-part of the task.
+Written for a Mac. No prior knowledge is assumed. If something breaks, take a screenshot
+and ask. That is part of the task.
 
 ## 1. Open a terminal
 
@@ -12,13 +12,17 @@ Press **Cmd + Space**, type `Terminal`, press Enter.
 
 ## 2. Install OpenCode
 
-Paste this line into the terminal and press Enter:
+Paste these two lines into the terminal and press Enter:
 
 ```bash
+touch ~/.zshrc
 curl -fsSL https://opencode.ai/install | bash
 ```
 
-Close the terminal, open it again, and check:
+The first line makes sure the settings file the installer writes to exists; a new Mac
+does not have one, and without it the `opencode` command will not be found.
+
+Then open a **new** terminal window (**Cmd + N**) and check:
 
 ```bash
 opencode --version
@@ -34,20 +38,18 @@ cd ~/first-task
 opencode
 ```
 
-## 4. Connect to the free models
+If the screen looks garbled in the built-in Terminal app, install
+[Ghostty](https://ghostty.org), a terminal the OpenCode docs recommend, and use that
+instead.
 
-1. Inside OpenCode, type `/connect` and choose **OpenCode Zen**.
-2. A browser opens. Sign in at opencode.ai and copy your API key.
-3. Paste the key into the terminal.
+## 4. Pick a free model
 
-> ⚠️ If you are asked for card details, stop and ask before continuing. This task is
-> meant to be free.
+Type `/models` and choose **Muse Spark 1.3 Contributor Free**.
 
-## 5. Pick a model
+The free models need no account, no API key and no card. If anything asks you for card
+details, stop and ask before continuing.
 
-Type `/models` and choose **Muse Spark 1.3 Contributor (free)**.
-
-## 6. Have it write a program
+## 5. Have it write a program
 
 Ask it:
 
@@ -64,7 +66,7 @@ python3 hello.py
 
 Your Mac may ask you to install the "Command Line Tools". Say yes; that is expected.
 
-## 7. Done when
+## 6. Done when
 
 You can show:
 
