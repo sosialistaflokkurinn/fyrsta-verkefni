@@ -49,6 +49,17 @@ Type `/models` and choose **Muse Spark 1.3 Contributor Free**.
 The free models need no account, no API key and no card. If anything asks you for card
 details, stop and ask before continuing.
 
+### Optional: if you were given an API key
+
+Free models are enough for this task. If someone gave you an OpenCode Zen API key:
+
+1. Type `/connect` and choose **OpenCode Zen**.
+2. Paste the key and press Enter.
+3. Type `/models` again; the paid models are now listed too.
+
+Treat the key like a password: never put it in code, in a file you commit, or on
+GitHub, and never pass it on.
+
 ## 5. Have it write a program
 
 Ask it:
