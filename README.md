@@ -42,27 +42,20 @@ If the screen looks garbled in the built-in Terminal app, install
 [Ghostty](https://ghostty.org), a terminal the OpenCode docs recommend, and use that
 instead.
 
-## 4. Pick a free model
+## 4. Connect with your API key
 
-Type `/models` and choose **Muse Spark 1.3 Contributor Free**.
-
-The free models need no account, no API key and no card. If anything asks you for card
-details, stop and ask before continuing.
-
-### Optional: if you were given an API key
-
-Free models are enough for this task. If someone gave you an **OpenCode Go** API key:
+You were sent an **OpenCode Go** API key. Inside OpenCode:
 
 1. Type `/connect` and choose **OpenCode Go** (not OpenCode Zen).
 2. Paste the key and press Enter.
-3. Type `/models` again. The Go models are now listed too, for example
-   **Muse Spark 1.3 Contributor**, **Kimi K3** and **DeepSeek V4 Flash**.
-
-The key shares a monthly allowance with other people. If a model answers with a usage
-limit error, switch back to a free model.
+3. Type `/models` and choose a model from OpenCode Go, for example
+   **Muse Spark 1.3 Contributor**.
 
 Treat the key like a password: never put it in code, in a file you commit, or on
-GitHub, and never pass it on.
+GitHub, and never pass it on. If anything asks you for card details, stop and ask.
+
+The key shares a monthly allowance with other people. If a model answers with a usage
+limit error, ask before doing anything else.
 
 ## 5. Have it write a program
 
@@ -91,7 +84,7 @@ You can show:
 
 ## 🔒 Rule from day one
 
-Muse Spark "Contributor", free or through Go, lets its provider use everything you type
+Muse Spark "Contributor" lets its provider use everything you type
 to train future models. Treat every model you have not checked the same way: never paste
 anything real into it, no personal data, ID numbers, phone numbers, email addresses or
 internal documents. Exercises and your own code are fine.
