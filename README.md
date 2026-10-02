@@ -51,11 +51,16 @@ details, stop and ask before continuing.
 
 ### Optional: if you were given an API key
 
-Free models are enough for this task. If someone gave you an OpenCode Zen API key:
+Free models are enough for this task. If someone gave you an **OpenCode Go** API key:
 
-1. Type `/connect` and choose **OpenCode Zen**.
+1. Type `/connect` and choose **OpenCode Go** (not OpenCode Zen; a Go key only works
+   there).
 2. Paste the key and press Enter.
-3. Type `/models` again; the paid models are now listed too.
+3. Type `/models` again. The Go models are now listed too, for example
+   **Muse Spark 1.3 Contributor**, **Kimi K3** and **DeepSeek V4 Flash**.
+
+The key shares a monthly allowance with other people. If a model answers with a usage
+limit error, switch back to a free model.
 
 Treat the key like a password: never put it in code, in a file you commit, or on
 GitHub, and never pass it on.
@@ -87,6 +92,6 @@ You can show:
 
 ## 🔒 Rule from day one
 
-The free Muse Spark tier lets its provider use everything you type to train future
-models. Never paste anything real into it: no personal data, ID numbers, phone numbers,
+Muse Spark "Contributor", free or through Go, lets its provider use everything you
+type to train future models; treat every model you have not checked the same way. Never paste anything real into it: no personal data, ID numbers, phone numbers,
 email addresses or internal documents. Exercises and your own code are fine.
