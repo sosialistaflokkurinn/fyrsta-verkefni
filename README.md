@@ -3,12 +3,16 @@
 One goal: install **OpenCode**, an AI coding agent that runs in the terminal, and have it
 write a small Python program that you then run yourself.
 
-Written for a Mac. No prior knowledge is assumed. If something breaks, take a screenshot
+Written for a Mac, with the **Windows** differences in a box under each step. No prior
+knowledge is assumed. If something breaks, take a screenshot
 and ask. That is part of the task.
 
 ## 1. Open a terminal
 
 Press **Cmd + Space**, type `Terminal`, press Enter.
+
+> **Windows:** press the **Windows key**, type `Terminal`, press Enter. That opens
+> Windows Terminal with PowerShell, which is what every Windows box below assumes.
 
 ## 2. Install OpenCode
 
@@ -30,6 +34,19 @@ opencode --version
 
 If a version number appears, the install worked.
 
+> **Windows:** skip the two lines above. If OpenCode already runs, skip this step
+> entirely. Otherwise the simplest route is to install Node.js (the LTS version from
+> [nodejs.org](https://nodejs.org)), open a new terminal and run:
+>
+> ```powershell
+> npm install -g opencode-ai
+> ```
+>
+> Then open a **new** terminal tab (**Ctrl + Shift + T**) and run `opencode --version`.
+> The OpenCode docs also list `choco install opencode` and `scoop install opencode`, and
+> recommend WSL (Linux inside Windows) for the best experience. WSL is not needed for
+> this task or for the programs in `IDEAS.md`.
+
 ## 3. Create a working folder and start OpenCode
 
 ```bash
@@ -41,6 +58,9 @@ opencode
 If the screen looks garbled in the built-in Terminal app, install
 [Ghostty](https://ghostty.org), a terminal the OpenCode docs recommend, and use that
 instead.
+
+> **Windows:** the same three commands work in PowerShell. If the screen looks garbled,
+> make sure you are in Windows Terminal, not the old blue PowerShell window.
 
 ## 4. Connect with your API key
 
@@ -73,6 +93,18 @@ python3 hello.py
 ```
 
 Your Mac may ask you to install the "Command Line Tools". Say yes; that is expected.
+
+> **Windows:** there is no `python3` command. Use `py` (the Python launcher) instead:
+>
+> ```powershell
+> cd ~\first-task
+> py hello.py
+> ```
+>
+> If `py` is not found, install Python from [python.org](https://www.python.org/downloads/)
+> and open a new terminal. Run the program as a **file** like this; don't paste the code
+> into the `>>>` prompt you get from typing `python` on its own. The `>>>` prompt is for
+> trying out single lines; to leave it, type `exit()`.
 
 ## 6. Done when
 
