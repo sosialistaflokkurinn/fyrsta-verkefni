@@ -82,6 +82,11 @@ You can show:
 - one thing in the code you understood,
 - one thing you did not.
 
+## 7. Next
+
+When `hello.py` runs, pick a program from [`IDEAS.md`](IDEAS.md). For the right Icelandic
+word for a Marxist term, see [`GLOSSARY.md`](GLOSSARY.md).
+
 ## 🔒 Rule from day one
 
 Muse Spark "Contributor" lets its provider use everything you type
