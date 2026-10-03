@@ -67,8 +67,8 @@ worker produces per hour. It then calculates Marx's concepts:
 
 - **necessary labour time:** the hours it takes the worker to produce the value of their wage,
 - **surplus labour time:** the rest of the working day,
-- **rate of surplus value** (*hlutfall gildisaukans*, also called
-  *arðránshlutfall*, the rate of exploitation): `s / v`, surplus value divided by variable capital (wages),
+- **rate of surplus value** (*arðránshlutfall*, also called
+  *hlutfall gildisaukans*; Marx's rate of exploitation): `s / v`, surplus value divided by variable capital (wages),
 - **rate of profit** (*gróðahlutfall*): `s / (c + v)`, where `c` is constant capital (machines, raw materials).
 
 - **You learn:** numbers (`float`), arithmetic, functions with parameters, validating

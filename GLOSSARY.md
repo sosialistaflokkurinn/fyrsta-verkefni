@@ -13,18 +13,20 @@ evidence rather than by feel. The same data is in [`glossary.csv`](glossary.csv)
   marks an unrestricted count. The numbers compare forms against each other; they are not totals.
 - **Correctness:** *gildisauki* was also checked in BÍN, Stafsetningarorðabókin and Ritmálssafn
   (oldest example: Réttur 1931). *firring*, *arðrán*, *söguleg efnishyggja* and *forræði* also
-  match the usage in [Vísindavefurinn](https://www.visindavefur.is) answers 26357 and 2334. The rest
-  rest on the usage counts alone.
+  match the usage in [Vísindavefurinn](https://www.visindavefur.is) answers 26357 and 2334. Terms whose note
+  names a dictionary were looked up in [Íðorðabankinn](https://idord.arnastofnun.is), and the
+  value, accumulation, base, vanguard and hegemony terms were read in context, not only counted.
+  The rest rest on the usage counts alone.
 - **Confidence:** ✅ *settled* means a clear winner with plenty of examples; 🟡 *likely* means a
   clear winner with few examples; ⚠️ *unsettled* means too little data or two forms in use. For
   ⚠️ terms, give the English term in brackets the first time: *frumsöfnun (e. primitive accumulation)*.
 
 | English | Icelandic | Also seen | Tímarit.is hits | | Note |
 |---|---|---|---|---|---|
-| surplus value | **gildisauki** | aukagildi, umframgildi, umframvirði | 58 vs 0 / 1 / 4 | ✅ settled | Not virðisauki, which is VAT. In Icelandic since Réttur 1931. The economics dictionary (Hagfræðiorðasafn) lists umframvirði, which Marxist texts barely use. |
-| rate of surplus value | **hlutfall gildisaukans** | arðránshlutfall (rate of exploitation) | 3 vs 3 | ⚠️ unsettled | s/v. Neither term is in the economics dictionary. Hlutfall gildisaukans: Ný dagsbrún 1974 and Morgunblaðið 1978, in Marx's sense. Arðránshlutfall: Þjóðviljinn, Neisti and Muninn 1973-75; Marx himself equates the two. |
+| surplus value | **gildisauki** | umframvirði, aukagildi, umframgildi | 208 hits, 196 alongside Marx; umframvirði 14 (7), umframgildi 7 (1), aukagildi 17 (0) | ✅ settled | Not virðisauki, which is VAT; before VAT (1990) a few writers used it in Marx's sense (Þjóðviljinn 1974, DV 1987). In Icelandic since Réttur 1931. The economics dictionary lists umframvirði, used in Marx's sense only in Réttur 1975; elsewhere it is business jargon for value added. |
+| rate of surplus value | **arðránshlutfall** | hlutfall gildisaukans | 17 hits, 1955-1983, 15 alongside Marx; hlutfall gildisaukans 3 | 🟡 likely | s/v. Þjóðviljinn 1955 defines it with the formula s' = s/v; also Réttur 1960 and 1968, Neisti 1963-1983. Marx calls the same ratio the rate of surplus value and the rate of exploitation. Neither word is in the economics dictionary. |
 | rate of profit | **gróðahlutfall** | arðsemi (rate of return), hagnaðarhlutfall (profit margin) | 79 hits, 1968-2022; 27 alongside Marx or gildisauki. hagnaðarhlutfall: 175 hits, 1 Marxist (Saga 1997) | ✅ settled | s/(c+v). Neisti 1973: "Gróðahlutfallið er hlutfall gildisaukans við það heildarauðmagn, sem fjárfest er." Used in Neisti, Réttur, Tímarit Máls og menningar and Ritið (2009). hagnaðarhlutfall is Hagstofa's profit margin on sales; arðsemi is the business word and fine in loose prose, but not Marx's ratio. |
-| tendency of the rate of profit to fall | **tilhneiging gróðahlutfallsins til að falla** | lækkandi / fallandi gróðahlutfall | 12 hits for the full phrase, 1972-1983; lækkandi/fallandi gróðahlutfall 7 | 🟡 likely | Tímarit Máls og menningar 1977: "lögmálið um tilhneigingu gróðahlutfallsins til að falla". Ritið 2009 uses lækkandi gróðahlutfall. |
+| tendency of the rate of profit to fall | **tilhneiging gróðahlutfallsins til að falla** | lækkandi / fallandi gróðahlutfall | tilhneiging gróðahlutfallsins 4 (1972-1977); lækkandi/fallandi gróðahlutfall 10; gróðahlutfallið fellur/lækkar 5 | 🟡 likely | Tímarit Máls og menningar 1977: "lögmálið um tilhneigingu gróðahlutfallsins til að falla". Neisti 1973: "Lögmál lækkandi gróðahlutfalls". Ritið 2009 uses lækkandi gróðahlutfall. |
 | proletariat | **öreigar** | öreigastétt, verkalýðsstétt | 1560 vs 223 and 680 | ✅ settled | "Öreigar allra landa, sameinist!" (665 hits). Öreigastétt for the class as a unit. |
 | working class | **verkalýðsstétt** | verkalýður | 680 | ✅ settled | Verkalýður is the everyday word. |
 | bourgeoisie | **borgarastétt** | burgeisar, auðstétt, burgeisastétt | 952 vs 155, 120 and 50 | ✅ settled | Burgeisar is the older polemical word. |
@@ -37,14 +39,14 @@ evidence rather than by feel. The same data is in [`glossary.csv`](glossary.csv)
 | socialism | **sósíalismi** | félagshyggja | 31409 vs 11051 (all contexts); 2880 vs 244 with Marx | ✅ settled | Félagshyggja is broader (the social-minded left in general). Not jafnaðarstefna: see Watch out. |
 | means of production | **framleiðslutæki** |  | 9029 (all contexts) | ✅ settled |  |
 | forces of production | **framleiðsluöfl** | framleiðslukraftar | 110 vs 11 | ✅ settled |  |
-| relations of production | **framleiðsluafstæður** | framleiðslutengsl | 45 vs 10 | 🟡 likely |  |
+| relations of production | **framleiðsluafstæður** | framleiðslutengsl | 106 hits, 74 alongside Marx; framleiðslutengsl 14 (12) | ✅ settled | The social-science dictionary (Félagsfræðiorðasafn) lists framleiðsluafstæður. |
 | mode of production | **framleiðsluháttur** |  | 62 (plural framleiðsluhættir 187) | ✅ settled |  |
 | labour power | **vinnuafl** | vinnukraftur | 695 vs 90 | ✅ settled | Vinnuafl also means workforce; context decides. |
 | wage labour | **launavinna** | launaþrælkun | 147 vs 11 | ✅ settled | Launaþrælkun (wage slavery) is a polemical term. |
 | use value | **notagildi** |  | 115 | ✅ settled |  |
-| exchange value | **skiptagildi** | skiptigildi | 24 vs 8 | 🟡 likely |  |
-| labour theory of value | **vinnugildiskenningin** | gildiskenning | 8 vs 10 | ⚠️ unsettled | Gildiskenning is any theory of value; vinnugildiskenning is the precise term. |
-| commodity fetishism | **blætiseðli vörunnar** | vörublæti | 17 vs 2 | ⚠️ unsettled | Little attested in either form. |
+| exchange value | **skiptagildi** | skiptigildi, skiptavirði | 106 hits, 43 alongside Marx; skiptigildi 35 (10); skiptavirði 1 | ✅ settled | The anthropology dictionary lists skiptagildi. The economics dictionary lists skiptavirði, which almost nobody writes. |
+| labour theory of value | **vinnugildiskenningin** | vinnuverðgildiskenning, gildiskenning | 24 hits, 19 alongside Marx, 1956-2020; vinnuverðgildiskenning 11, all in Morgunblaðið 1978-1990 | ✅ settled | The economics dictionary lists vinnugildiskenning. Gildiskenning is any theory of value. |
+| commodity fetishism | **blætiseðli vörunnar** | vörudýrkun, vörublæti | 17 hits, 1964-2021, 15 alongside Marx; vörudýrkun 7 (1), vörublæti 2 (1) | 🟡 likely | Neisti 1983, then Skírnir, Hugur and Ritið 2011-2021. Blætisdýrkun is the dictionaries' general word for fetishism. |
 | exploitation | **arðrán** |  | 709 | ✅ settled |  |
 | alienation | **firring** | framandgerving | 218 vs 2 | ✅ settled |  |
 | class struggle | **stéttabarátta** | stéttarbarátta | 983 vs 64 | ✅ settled |  |
@@ -53,15 +55,15 @@ evidence rather than by feel. The same data is in [`glossary.csv`](glossary.csv)
 | dialectics | **díalektík** | þrætubók, þráttarhyggja | 118 vs 26 and 19 | ✅ settled |  |
 | dialectical materialism | **díalektísk efnishyggja** |  | 176 (all contexts) | ✅ settled |  |
 | superstructure | **yfirbygging** |  | 117 | ✅ settled |  |
-| base (economic base) | **undirstaða** | grunnur | 9 vs 12 ("undirstaða og yfirbygging" vs "grunnur og yfirbygging") | ⚠️ unsettled | Both are used. |
-| reserve army of labour | **varalið atvinnuleysingja** | varaher | 61 vs 4 (varalið) | ⚠️ unsettled | The full phrase is rare in either form. |
-| primitive accumulation | **frumsöfnun** |  | 7 (all contexts) | ⚠️ unsettled | Rarely written about in Icelandic. |
+| base (economic base) | **grunnur** | undirstaða, undirbygging | "grunnur og yfirbygging" 12 (11 in Marx's sense, 1961-2020); undirstaða og yfirbygging 2; undirbygging og yfirbygging 1 | 🟡 likely | Tímarit Máls og menningar 1983, Ritið 2011 and 2016, Saga 2020. Superstructure is yfirbygging everywhere, including the social-science dictionary. |
+| reserve army of labour | **varalið iðnaðarins** | varaher verkamanna, varalið atvinnuleysingja | 16 hits, 1916-1979, 11 alongside Marx; other varalið/varaher phrases 4 | 🟡 likely | Marx's "industrial reserve army". Réttur 1930 and 1968, Neisti 1973-79, Ný dagsbrún 1974; Samvinnan 1933: "það, sem Marx nefndi varalið iðnaðarins". Not varalið auðvaldsins, a 1930s jibe at social democrats. |
+| primitive accumulation | **frumsöfnun** |  | 8 hits, only 1 Marxist (Réttur 1930); no other form found | ⚠️ unsettled | Réttur 1930: "hinnar svokölluðu »frumsöfnunar«", Marx's "so-called primitive accumulation". The other hits mean collecting source material. Too thin to call settled. |
 | accumulation of capital | **auðsöfnun** | fjármagnssöfnun | 3056 vs 4 (all contexts) | ✅ settled |  |
 | dictatorship of the proletariat | **alræði öreiganna** | alræði verkalýðsins, alræði öreigastéttarinnar | 413 vs 15 and 6 | ✅ settled | Alræði here means rule of a class, not modern totalitarianism. |
 | imperialism | **heimsvaldastefna** | imperíalismi | 253 vs 20 | ✅ settled |  |
-| labour aristocracy | **verkalýðsaðall** |  | 11 | 🟡 likely |  |
-| vanguard party | **forystusveit** | framvarðarsveit, framvarðarflokkur | 55 vs 28 and 2 | ⚠️ unsettled |  |
-| hegemony | **forræði** | hegemónía | 14 vs 12 | ⚠️ unsettled | Gramsci; "menningarlegt forræði" for cultural hegemony (25 hits). Vísindavefurinn uses forræði. |
+| labour aristocracy | **verkalýðsaðall** | verkamannaaðall | 102 hits, 62 alongside Marx or Lenin; verkamannaaðall 7 (3) | ✅ settled | Réttur 1944-1977 and Ritið 2009 also use verkamannaaðall, rarely. |
+| vanguard party | **forystusveit** | framvarðarsveit, forystuflokkur, framvarðarflokkur | with "verkalýðsins": forystusveit 26 (1933-1989), forystuflokkur 21 (1934-1985), framvarðarsveit 19 (1965-1996); framvarðarflokkur 10 | ⚠️ unsettled | The Comintern-era parties called themselves forystusveit / forystuflokkur verkalýðsins (Sósíalistaflokkurinn 1938-45). The 1970s Marxist-Leninist groups (Stéttabaráttan) wrote framvarðarsveit, a closer calque of "vanguard". Forystusveit also just means "the leadership". |
+| hegemony | **forræði** | yfirráð, hegemónía | next to Gramsci: forræði 11 (1972-2019), yfirráð 3, hegemónía 1 | ✅ settled | Gramsci. Ritið 2002 and Saga 2018-2019 write "forræði (e. hegemony)"; menningarlegt forræði = cultural hegemony (Ritið 2009, Saga 2012). The anthropology dictionary lists forræði. It also means custody, so gloss it on first use. |
 | ideology | **hugmyndafræði** |  | 29689 (all contexts) | ✅ settled |  |
 | false consciousness | **fölsk vitund** |  | 54 | ✅ settled |  |
 | internationalism | **alþjóðahyggja** |  | 1990 (all contexts) | ✅ settled |  |
