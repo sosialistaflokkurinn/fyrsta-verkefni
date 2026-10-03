@@ -33,7 +33,7 @@ evidence rather than by feel. The same data is in [`glossary.csv`](glossary.csv)
 | Capital (the book) | **Auðmagnið** | Das Kapital | 383 vs 278 | ✅ settled |  |
 | The Communist Manifesto | **Kommúnistaávarpið** | Ávarp kommúnistaflokksins | 912 vs 4 | ✅ settled |  |
 | communism | **kommúnismi** | sameignarstefna | 2574 vs 38 | ✅ settled |  |
-| socialism | **sósíalismi** | jafnaðarstefna | 31409 vs 11359 (all contexts) | ✅ settled | Jafnaðarstefna usually means social democracy. |
+| socialism | **sósíalismi** | félagshyggja | 31409 vs 11051 (all contexts); 2880 vs 244 with Marx | ✅ settled | Félagshyggja is broader (the social-minded left in general). Not jafnaðarstefna: see Watch out. |
 | means of production | **framleiðslutæki** |  | 9029 (all contexts) | ✅ settled |  |
 | forces of production | **framleiðsluöfl** | framleiðslukraftar | 110 vs 11 | ✅ settled |  |
 | relations of production | **framleiðsluafstæður** | framleiðslutengsl | 45 vs 10 | 🟡 likely |  |
@@ -74,3 +74,7 @@ evidence rather than by feel. The same data is in [`glossary.csv`](glossary.csv)
 - **alræði öreiganna** is Marx's phrase for the rule of the working class as a class. It does not
   mean the modern sense of *alræði* (totalitarianism), and the two should not be read into each other.
 - **auðmagn vs fjármagn:** fjármagn is everyday finance; use auðmagn for Marx's concept of capital.
+- **sósíalismi ≠ jafnaðarstefna.** Jafnaðarstefna is the word social democrats use for themselves,
+  and social-democratic parties have since taken up a softened form of neoliberalism. Using it for
+  socialism blurs exactly the line this glossary is meant to keep. Say *sósíalismi*, or
+  *félagshyggja* for the wider left; use *jafnaðarstefna* only when you mean social democracy.
