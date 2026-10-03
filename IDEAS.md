@@ -28,7 +28,7 @@ were right and shows your score at the end.
   > options, keep score, and show the score at the end. Keep the questions in a list
   > of dictionaries at the top of the file so I can add my own.
 - **Check the facts yourself.** Language models get dates wrong. Check every answer
-  against a source, for example [Vísindavefurinn](https://www.visindavefur.is). Even
+  against a source; [`SOURCES.md`](SOURCES.md) lists objective Vísindavefurinn articles. Even
   sources disagree with each other: one Vísindavefurinn article dates the Treaty of
   Brest-Litovsk to 1917, while another correctly gives March 1918.
 

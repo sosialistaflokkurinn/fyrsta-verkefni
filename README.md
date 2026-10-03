@@ -85,7 +85,8 @@ You can show:
 ## 7. Next
 
 When `hello.py` runs, pick a program from [`IDEAS.md`](IDEAS.md). For the right Icelandic
-word for a Marxist term, see [`GLOSSARY.md`](GLOSSARY.md).
+word for a Marxist term, see [`GLOSSARY.md`](GLOSSARY.md). Reliable
+sources to check facts against are in [`SOURCES.md`](SOURCES.md).
 
 ## 🔒 Rule from day one
 
