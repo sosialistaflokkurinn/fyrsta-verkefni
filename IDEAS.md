@@ -1,11 +1,20 @@
 # Ideas for your next Python programs
 
+> **Every program here is a terminal program.** It runs in Terminal with
+> `python3 <file>.py`, reads what you type with `input()` and answers with `print()`.
+> No windows, no web page, no app: no `tkinter`, `pygame`, Flask or anything else
+> graphical. Only Python's standard library, so there is nothing to install.
+> If OpenCode suggests a window or a web page, say no and ask for the terminal version.
+
 Once `hello.py` runs, pick one of these. They are ordered from easiest to hardest, so
 start with the first. Each one is small enough to finish in an evening with OpenCode,
 and each teaches something new in Python.
 
 The text the programs show can be in Icelandic. For the right Icelandic word for a
 Marxist term, use [`GLOSSARY.md`](GLOSSARY.md).
+
+Every prompt below ends with the same sentence that keeps it in the terminal; leave it in
+when you change the prompt.
 
 The working method is the same every time:
 
@@ -27,6 +36,8 @@ were right and shows your score at the end.
   > revolution, the Icelandic labour movement). Shuffle the questions and the answer
   > options, keep score, and show the score at the end. Keep the questions in a list
   > of dictionaries at the top of the file so I can add my own.
+  > It must be a terminal program: run with `python3`, talk to me only through `input()` and
+  > `print()`, no graphical window or web page, and only the Python standard library.
 - **Check the facts yourself.** Language models get dates wrong. Check every answer
   against a source; [`SOURCES.md`](SOURCES.md) lists objective Vísindavefurinn articles. Even
   sources disagree with each other: one Vísindavefurinn article dates the Treaty of
@@ -43,6 +54,8 @@ Lenin or Gramsci.
   > source). Show a random quote, let me choose the author from a numbered list, and tell
   > me whether I was right and where the quote comes from. Create `quotes.csv` with 10
   > well-known quotes.
+  > It must be a terminal program: run with `python3`, talk to me only through `input()` and
+  > `print()`, no graphical window or web page, and only the Python standard library.
 - **Check every quote.** Language models are known to invent quotes and attribute them
   to famous people. Keep a quote only if you can find it in its source.
 
@@ -65,6 +78,8 @@ worker produces per hour. It then calculates Marx's concepts:
   > per day. Calculate necessary labour time, surplus labour time, surplus value, the
   > rate of surplus value s/v and the rate of profit s/(c+v). Explain each result in one
   > sentence. Handle the case where I type text instead of a number.
+  > It must be a terminal program: run with `python3`, talk to me only through `input()` and
+  > `print()`, no graphical window or web page, and only the Python standard library.
 
 ## 4. Pay-gap calculator
 
@@ -79,6 +94,8 @@ the CEO to earn the worker's monthly wage.
   > krónur. Show the ratio, how many years the worker needs to earn the CEO's annual pay,
   > and how many working minutes the CEO needs to earn the worker's monthly wage. Draw a
   > simple bar chart in the terminal using █ characters.
+  > It must be a terminal program: run with `python3`, talk to me only through `input()` and
+  > `print()`, no graphical window or web page, and only the Python standard library.
 - **Use only public or made-up figures.** Do not use real wage data about named
   individuals; see the data rule in [`README.md`](README.md).
 
@@ -96,6 +113,8 @@ employer's patience change according to your choices.
   > and the employer's patience (0-100). Each turn I choose one of 4 actions; each action
   > changes the state, with some randomness. The game ends with a collective agreement,
   > a lost strike or bankruptcy. Keep the game logic in functions so it is easy to change.
+  > It must be a terminal program: run with `python3`, talk to me only through `input()` and
+  > `print()`, no graphical window or web page, and only the Python standard library.
 
 ## 6. Glossary flashcards
 
@@ -110,6 +129,8 @@ which ones you got wrong.
   > a random term in one language and ask for it in the other. Accept the answer
   > regardless of capitalisation. Save the terms I got wrong to `rangt.txt`, and let me
   > practise only those next time with `python3 ordaspjold.py --rangt`.
+  > It must be a terminal program: run with `python3`, talk to me only through `input()` and
+  > `print()`, no graphical window or web page, and only the Python standard library.
 
 ---
 
