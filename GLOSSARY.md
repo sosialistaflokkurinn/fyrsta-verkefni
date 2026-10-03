@@ -21,9 +21,9 @@ evidence rather than by feel. The same data is in [`glossary.csv`](glossary.csv)
 
 | English | Icelandic | Also seen | Tímarit.is hits | | Note |
 |---|---|---|---|---|---|
-| surplus value | **gildisauki** | aukagildi, umframgildi | 58 vs 0 and 1 | ✅ settled | Not virðisauki, which is VAT. In Icelandic since Réttur 1931. |
-| rate of surplus value | **hlutfall gildisaukans** | gildisaukahlutfall | 3 vs 0 | ⚠️ unsettled | No established single word; s/v. |
-| rate of profit | **gróðahlutfall** |  | 15 | 🟡 likely | s/(c+v) |
+| surplus value | **gildisauki** | aukagildi, umframgildi, umframvirði | 58 vs 0 / 1 / 4 | ✅ settled | Not virðisauki, which is VAT. In Icelandic since Réttur 1931. The economics dictionary (Hagfræðiorðasafn) lists umframvirði, which Marxist texts barely use. |
+| rate of surplus value | **hlutfall gildisaukans** | arðránshlutfall (rate of exploitation) | 3 vs 3 | ⚠️ unsettled | s/v. Neither term is in the economics dictionary. Hlutfall gildisaukans: Ný dagsbrún 1974 and Morgunblaðið 1978, in Marx's sense. Arðránshlutfall: Þjóðviljinn, Neisti and Muninn 1973-75; Marx himself equates the two. |
+| rate of profit | **gróðahlutfall** |  | 15 with Marx (34 overall) | 🟡 likely | s/(c+v). The economics dictionary lists gróðahlutfall as 'profit ratio'. Not hagnaðarhlutfall (profit margin on sales) or arðsemi / arðsemishlutfall (rate of return), which are mainstream accounting measures. |
 | proletariat | **öreigar** | öreigastétt, verkalýðsstétt | 1560 vs 223 and 680 | ✅ settled | "Öreigar allra landa, sameinist!" (665 hits). Öreigastétt for the class as a unit. |
 | working class | **verkalýðsstétt** | verkalýður | 680 | ✅ settled | Verkalýður is the everyday word. |
 | bourgeoisie | **borgarastétt** | burgeisar, auðstétt, burgeisastétt | 952 vs 155, 120 and 50 | ✅ settled | Burgeisar is the older polemical word. |
