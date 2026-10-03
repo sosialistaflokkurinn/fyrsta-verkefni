@@ -1,17 +1,18 @@
 english,icelandic,alternatives,evidence,confidence,note
 surplus value,gildisauki,aukagildi; umframgildi; umframvirði,58 vs 0 / 1 / 4,settled,"Not virðisauki, which is VAT. In Icelandic since Réttur 1931. The economics dictionary (Hagfræðiorðasafn) lists umframvirði, which Marxist texts barely use."
 rate of surplus value,hlutfall gildisaukans,arðránshlutfall (rate of exploitation),3 vs 3,unsettled,"s/v. Neither term is in the economics dictionary. Hlutfall gildisaukans: Ný dagsbrún 1974 and Morgunblaðið 1978, in Marx's sense. Arðránshlutfall: Þjóðviljinn, Neisti and Muninn 1973-75; Marx himself equates the two."
-rate of profit,gróðahlutfall,,15 with Marx (34 overall),likely,"s/(c+v). The economics dictionary lists gróðahlutfall as 'profit ratio'. Not hagnaðarhlutfall (profit margin on sales) or arðsemi / arðsemishlutfall (rate of return), which are mainstream accounting measures."
+rate of profit,gróðahlutfall,arðsemi (rate of return); hagnaðarhlutfall (profit margin),"79 hits, 1968-2022; 27 alongside Marx or gildisauki. hagnaðarhlutfall: 175 hits, 1 Marxist (Saga 1997)",settled,"s/(c+v). Neisti 1973: ""Gróðahlutfallið er hlutfall gildisaukans við það heildarauðmagn, sem fjárfest er."" Used in Neisti, Réttur, Tímarit Máls og menningar and Ritið (2009). hagnaðarhlutfall is Hagstofa's profit margin on sales; arðsemi is the business word and fine in loose prose, but not Marx's ratio."
+tendency of the rate of profit to fall,tilhneiging gróðahlutfallsins til að falla,lækkandi / fallandi gróðahlutfall,"12 hits for the full phrase, 1972-1983; lækkandi/fallandi gróðahlutfall 7",likely,"Tímarit Máls og menningar 1977: ""lögmálið um tilhneigingu gróðahlutfallsins til að falla"". Ritið 2009 uses lækkandi gróðahlutfall."
 proletariat,öreigar,öreigastétt; verkalýðsstétt,1560 vs 223 and 680,settled,"""Öreigar allra landa, sameinist!"" (665 hits). Öreigastétt for the class as a unit."
 working class,verkalýðsstétt,verkalýður,680,settled,Verkalýður is the everyday word.
-bourgeoisie,borgarastétt,burgeisar; auðstétt; burgeisastétt,952 vs 155, 120 and 50,settled,Burgeisar is the older polemical word.
+bourgeoisie,borgarastétt,burgeisar; auðstétt; burgeisastétt,"952 vs 155, 120 and 50",settled,Burgeisar is the older polemical word.
 petty bourgeoisie,smáborgarar,smáborgarastétt,175 vs 27,settled,
 capitalism,kapítalismi,auðvaldsskipulag,889 vs 424,settled,Auðvaldsskipulag is the older native word and still correct.
 capital (Marx's concept),auðmagn,fjármagn; kapítal,597 vs 1004 and 347,settled,"Fjármagn wins on raw count only because it is the everyday finance word; Marx's concept is auðmagn, as in the book title Auðmagnið."
 Capital (the book),Auðmagnið,Das Kapital,383 vs 278,settled,
 The Communist Manifesto,Kommúnistaávarpið,Ávarp kommúnistaflokksins,912 vs 4,settled,
 communism,kommúnismi,sameignarstefna,2574 vs 38,settled,
-socialism,sósíalismi,félagshyggja,31409 vs 11051 (all contexts); 2880 vs 244 with Marx,settled,"Félagshyggja is broader (the social-minded left in general). Not jafnaðarstefna: see Watch out."
+socialism,sósíalismi,félagshyggja,31409 vs 11051 (all contexts); 2880 vs 244 with Marx,settled,Félagshyggja is broader (the social-minded left in general). Not jafnaðarstefna: see Watch out.
 means of production,framleiðslutæki,,9029 (all contexts),settled,
 forces of production,framleiðsluöfl,framleiðslukraftar,110 vs 11,settled,
 relations of production,framleiðsluafstæður,framleiðslutengsl,45 vs 10,likely,
@@ -33,7 +34,7 @@ superstructure,yfirbygging,,117,settled,
 base (economic base),undirstaða,grunnur,"9 vs 12 (""undirstaða og yfirbygging"" vs ""grunnur og yfirbygging"")",unsettled,Both are used.
 reserve army of labour,varalið atvinnuleysingja,varaher,61 vs 4 (varalið),unsettled,The full phrase is rare in either form.
 primitive accumulation,frumsöfnun,,7 (all contexts),unsettled,Rarely written about in Icelandic.
-accumulation of capital,auðsöfnun,fjármagnssöfnun,"3056 vs 4 (all contexts)",settled,
+accumulation of capital,auðsöfnun,fjármagnssöfnun,3056 vs 4 (all contexts),settled,
 dictatorship of the proletariat,alræði öreiganna,alræði verkalýðsins; alræði öreigastéttarinnar,413 vs 15 and 6,settled,"Alræði here means rule of a class, not modern totalitarianism."
 imperialism,heimsvaldastefna,imperíalismi,253 vs 20,settled,
 labour aristocracy,verkalýðsaðall,,11,likely,
