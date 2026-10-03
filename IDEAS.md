@@ -66,9 +66,10 @@ The calculator asks for the length of the working day, the hourly wage and the v
 worker produces per hour. It then calculates Marx's concepts:
 
 - **necessary labour time:** the hours it takes the worker to produce the value of their wage,
-- **surplus labour time:** the rest of the working day,
-- **rate of surplus value** (*arðránshlutfall*, also called
-  *hlutfall gildisaukans*; Marx's rate of exploitation): `s / v`, surplus value divided by variable capital (wages),
+- **surplus labour time** (*aukavinna*): the rest of the working day,
+- **rate of surplus value** (*hlutfall gildisaukans*; Marx also calls it the degree of
+  exploitation, *stig arðránsins*, and the political word is *arðránshlutfall*): `s / v`,
+  surplus value divided by variable capital (wages),
 - **rate of profit** (*gróðahlutfall*): `s / (c + v)`, where `c` is constant capital (machines, raw materials).
 
 - **You learn:** numbers (`float`), arithmetic, functions with parameters, validating
